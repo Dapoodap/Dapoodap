@@ -1,4 +1,4 @@
-<img src="20220730_145800.jpg"  width="300">
+<img src="20220730_145800.jpg"  width="300" style="border-radius:10px;">
 
 # Hello, I'm Daffa "dap" Radhitya! 👋
 
