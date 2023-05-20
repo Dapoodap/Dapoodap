@@ -1,6 +1,5 @@
 <!-- Replace the below placeholder with your own image link -->
 # Profile Image 
-<br/>
 <img src="20220730_145800.jpg"  width="300">
 
 # Hello, I'm DaffaRadhitya! 👋
