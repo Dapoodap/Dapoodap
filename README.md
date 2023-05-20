@@ -14,17 +14,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🚀 Skills
 
-- Programming Languages: 
-  - JavaScript
-  - Python
+- Programming / Scripting Languages: 
+  - JavaScript :heart_eyes:
   - HTML/CSS
+  - Python
   - Java
 
 - Frameworks/Libraries: 
   - React
   - Node.js
   - Express
-  - Django
+  - Hapi
 
 - Databases: 
   - MySQL
@@ -33,6 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📫 Contact Me
 
-You can reach me at [your-email@example.com](mailto:daffasven@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can reach me at [daffasvenl@example.com](mailto:daffasven@example.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/daffapwp/)).
 
 Let's collaborate and build something awesome together! 😄
