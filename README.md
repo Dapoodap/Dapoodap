@@ -2,7 +2,8 @@
 
 # Hello, I'm DaffaRadhitya! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating amazing software. I believe in the power of technology to make a positive impact and I enjoy exploring new tools and frameworks to enhance my skills. <em>may the tech be with you </em>.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating amazing software. I believe in the power of technology to make a positive impact and I enjoy exploring new tools and frameworks to enhance my skills.
+<em>may the tech be with you</em>.
 
 ## 📊 GitHub Stats
 
