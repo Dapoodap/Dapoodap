@@ -1,17 +1,17 @@
 <!-- Replace the below placeholder with your own image link -->
 ![Profile Image](https://example.com/your-image-link.png)
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm DaffaRadhitya! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating amazing software.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dapoodap&show_icons=true&theme=radical)
 
 ## 🔥 Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dapoodap&layout=compact&theme=radical)
 
 ## 🚀 Skills
 
@@ -34,6 +34,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📫 Contact Me
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can reach me at [your-email@example.com](mailto:daffasven@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
 Let's collaborate and build something awesome together! 😄
