@@ -1,5 +1,5 @@
 <!-- Replace the below placeholder with your own image link -->
-![Profile Image](https://example.com/your-image-link.png)
+![Profile Image](20220730_145800.jpg)
 
 # Hello, I'm DaffaRadhitya! 👋
 
