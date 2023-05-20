@@ -2,7 +2,7 @@
 
 # Hello, I'm DaffaRadhitya! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating amazing software.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating amazing software. I believe in the power of technology to make a positive impact and I enjoy exploring new tools and frameworks to enhance my skills. <em>may the tech be with you </em>.
 
 ## 📊 GitHub Stats
 
@@ -35,4 +35,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 You can reach me at [daffasvenl@example.com](mailto:daffasven@example.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/daffapwp/)).
 
-Let's collaborate and build something awesome together! 😄
+Thanks for stopping by and checking out my profile! and Let's collaborate and build something awesome together! 😄
