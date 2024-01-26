@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   - Node.js
   - Express
   - Hapi
+  - laravel
 
 - Databases: 
   - MySQL
